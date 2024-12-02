@@ -1,0 +1,65 @@
+@media only screen and (max-height: 667px) {
+    .margin{
+        margin-top: 75vh;
+    }
+    .menu{
+        padding-top: -80px;
+        padding-bottom: -8px;
+        /* background-color: red; */
+    }
+}
+@media only screen and (min-height: 896px) {
+    .margin{
+        margin-top: 80vh;
+    }
+}
+@media only screen and (min-height: 844px) {
+    .margin{
+        margin-top: 80vh;
+    }
+}
+@media only screen and (min-height: 851px) {
+    .margin{
+        /* margin-top: 70vh; */
+    }
+}
+@media only screen and (min-height: 740px) {
+    .margin{
+        margin-top: 80vh;
+    }
+}
+@media only screen and (min-height: 914px) {
+    .margin{
+        margin-top: 85vh;
+    }
+}
+@media only screen and (min-height: 1180px) {
+    .margin{
+        margin-top: 85vh;
+    }
+}
+@media only screen and (min-height: 1024px) {
+    .margin{
+        margin-top: 85vh;
+    }
+}
+@media only screen and (min-height: 720px) {
+    .margin{
+        margin-top: 80vh;
+    }
+}
+@media only screen and (min-height: 737px) {
+    .margin{
+        margin-top: 75vh;
+    }
+}
+@media only screen and (height: 915px) {
+    .margin{
+        margin-top: 80vh;
+    }
+}
+@media only screen and (height: 850px) {
+    .margin{
+        margin-top: 85vh;
+    }
+}

@@ -1,0 +1,116 @@
+.coba {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .slick-slide > div {
+    margin: 0 5px;
+  }
+  .slick-list {
+    margin: 0 -10px;
+  }
+
+button.slick-arrow.slick-next {
+  background-color: rgba(109, 92, 77, 0.5);
+  border-radius: 50%;
+  height: 19px;
+}
+button.slick-arrow.slick-prev {
+  background-color: rgba(109, 92, 77, 0.5);
+  height: 19px;
+  border-radius: 50%;
+}
+
+   .slick-arrow {
+    margin-top: -200px;
+    transition: opacity 0.5s ease-out;
+  } 
+  .slick-dots{
+    /* background-color: blue; */
+    position: absolute;
+    /* bottom: -160px; */
+    top: 270px;
+    cursor: pointer;
+  }
+  .slick-track {
+      margin:auto;
+  } 
+  .card {
+    padding-top: 50px;
+    border-radius: 25px;
+    overflow: hidden;
+    cursor: pointer;
+  
+    
+  }
+  
+  /* .card-top h1 {
+    font-size: 0.9rem;
+  } */
+  
+   .card-top > img {
+    filter: drop-shadow(0px 10px 12px rgba(0, 0, 0, 0.2));
+    border-radius: 25px;
+    width: 100%;
+    margin: auto;
+    height: 800px;
+    
+    /* margin-left: 30px; */
+  
+  
+  
+  }
+  .card-top{
+  
+  }
+  
+  /* .card-bottom {
+    margin: 10px 20px;
+  }  */
+  
+  .carousel-image {
+    max-width: 100%;
+    transform: scale(1);
+    transition: transform 0.3s;
+  }
+  
+  .slick-center .carousel-image {
+    height: 600px;
+    margin-top: 30px;
+  
+    transform: scale(1.2);
+  }
+
+
+  @media only screen and (max-height: 667px) {
+    .slick-dots{
+      position: absolute;
+      top: 270px;
+      cursor: pointer;
+
+    }
+    .bunga5{
+      margin-left: -50px;
+      width: 120;
+    }
+  }
+  @media only screen and (min-height: 896px) {
+    .slick-dots{
+      position: absolute;
+      top: 270px;
+      cursor: pointer;
+    }
+  }
+  
+  @media only screen and (min-height: 844px) {
+    .slick-dots{
+      position: absolute;
+      top: 270px;
+      cursor: pointer;
+    }
+  }
+  @media only screen and (max-width: 280px) {
+    .gallery{
+      /* width: 150px; */
+    }
+  }
+  

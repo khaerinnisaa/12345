@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Cinzel&family=Josefin+Sans:ital,wght@1,100&family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Cinzel&family=Josefin+Sans:ital,wght@1,100&family=Pinyon+Script&display=swap');
+.fs4 {
+  font-family: "Josefin Sans", sans-serif;
+  font-style: italic;
+  /* background-color: aqua; */
+}
+.fs1 {
+  /* background-color: aqua; */
+  font-family: "Bonheur Royale", cursive;
+  /* background-color: aqua; */
+}
+.fs2 {
+  font-family: "Pinyon Script", cursive;
+}

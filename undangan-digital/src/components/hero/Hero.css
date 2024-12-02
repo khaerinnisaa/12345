@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Cinzel&family=Josefin+Sans:ital,wght@1,100&family=Pinyon+Script&display=swap");
+.coba {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.fs1 {
+  font-family: "Bonheur Royale", cursive;
+}
+.fs2 {
+  font-family: "Pinyon Script", cursive;
+}
+.fs3 {
+  font-family: 'Cinzel', serif;
+}
+
+@media only screen and (height: 844px) {
+  .tes {
+    margin: 0;
+    min-height: 101vh;
+    /* margin-top: 100px; */
+  }
+  .coba {
+    min-height: 101vh;
+  }
+}
+
+@media only screen and (max-height: 667px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+    /* padding-top: 100px; */
+  }
+  .pading{
+    padding-top: 100px;
+    /* background-color: aqua; */
+  }
+  .typo{
+    font-size: 20px;
+  }
+}
+
+@media only screen and (height: 896px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+}
+
+@media only screen and (height: 851px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+}
+
+@media only screen and (height: 740px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+}
+
+@media only screen and (height: 915px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+}
+
+@media only screen and (height: 720px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+  .pria{
+    margin-left: 200vw;
+  }
+}
+
+@media only screen and (height: 653px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+}
+@media only screen and (height: 914px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+}
+
+@media only screen and (height: 500px) {
+  .tes {
+    margin: 0;
+    min-height: 100vh;
+  }
+  .coba {
+    min-height: 100vh;
+  }
+}
+
+@media only screen and (height: 851px) {
+  .typo {
+    padding-top: 110px;
+  }
+}
+
+@media (height: 667px) {
+  .typo {
+    margin-top: -100px;
+    padding-top: -200px;
+  }
+}
+
+@media only screen and (height: 896px) {
+  .typo {
+    padding-top: 150px;
+  }
+}
+
+@media only screen and (min-height: 844px) {
+  .typo {
+    padding-top: 105px;
+  }
+}
+@media only screen and (min-height: 914px) {
+  .typo {
+    padding-top: 170px;
+  }
+}
+
+@media only screen and (min-height: 1024px) {
+  .typo {
+    padding-top: 20px;
+  }
+}
