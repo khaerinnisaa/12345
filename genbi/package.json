@@ -1,0 +1,35 @@
+{
+  "name": "genbi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js",
+    "lint": "next lint",
+    "postbuild": "next-sitemap"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-react": "^8.0.0",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.4",
+    "@mui/material": "^5.16.4",
+    "axios": "^1.7.5",
+    "framer-motion": "^11.3.24",
+    "js-cookie": "^3.0.1",
+    "jwt-decode": "^4.0.0",
+    "next": "14.2.5",
+    "next-auth": "^4.24.7",
+    "next-sitemap": "^4.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "react-quill": "^2.0.0",
+    "react-swipeable-views": "^0.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
